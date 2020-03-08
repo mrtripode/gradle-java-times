@@ -20,6 +20,7 @@ buildscript {
 
 plugins {
     id 'java'
+    id "io.swagger.core.v3.swagger-gradle-plugin" version "2.1.1"
     //id 'org.jetbrains.intellij' version '0.4.16'
 }
 
